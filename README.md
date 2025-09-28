@@ -56,6 +56,9 @@ To investigate the extent to which AI technologies are integrated into daily sal
 ## 🙏 Acknowledgments
 This project was completed as part of the Master’s in Business Analytics at UCD Michael Smurfit Graduate Business School, in partnership with EY. Grateful thanks to all survey participants and our academic supervisor.
 
+### ⚠️ Note
+For confidentiality reasons, the full project report is not publicly available here. However, if you're interested in accessing the complete version, feel free to contact me directly.
+
 ---
 
 © 2025 Claudio Eghosasere Enobas Ese. For academic purposes only.
